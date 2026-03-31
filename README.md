@@ -1,1 +1,1 @@
-# sql_portfolio
+# 50_DAYS_OF_SQL_CHALLENGE
